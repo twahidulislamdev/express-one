@@ -6,7 +6,7 @@ app.use(express.json());
 const port = 3000;
 
 const userList = [
-  { name: "Emon", number: 123456, email: "emon10@gmail.com" },
+  { name: "Emon", number: 123456, email: "emontalukder10@gmail.com" },
   { name: "Twahidul", number: 123456, email: "twahid746@gmail.com" },
   { name: "Rakib", number: 123456, email: "rakib123@gmail.com" },
 ];
